@@ -26,12 +26,6 @@ Como **desenvolvedor backend** desse projeto, utilizando a linguagem de programa
   ### Diferencial: 
   * Aplicação de design patterns, solid e clean code;
   * Utilização de testes automatizados.
-  
-## ` -- Desenvolvedor Web Frontend Pleno~Sênior `
-(Em construção)
-
-## ` -- Desenvolvedor Mobile React Native Pleno~Sênior `
-(Em construção)
 
 ## Sobre o projeto (Objetivo)
 
